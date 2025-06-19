@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [https://melodic-elf-105f6c.netlify.app/](https://melodic-elf-105f6c.netlify.app/)
+- 👨‍💻 My PortFolio [https://melodic-elf-105f6c.netlify.app/](https://melodic-elf-105f6c.netlify.app/)
 
 - 💬 Ask me about **Java, react, Mysql**
 
