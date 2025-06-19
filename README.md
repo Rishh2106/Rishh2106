@@ -15,17 +15,6 @@
 
 ---
 
-### 🚀 Projects That Represent Me
-
-- 🧠 [Quiz Platform](https://github.com/Rishh2106/quiz-platform) — Kahoot-style quiz app with real-time experience.
-- 👥 [Microsoft Teams Clone](https://github.com/Rishh2106/teams-clone) — Chat + video call with clean UI.
-- 📧 [Gmail Manager](https://github.com/Rishh2106/gmail-manager) — Handle Gmail locally, securely.
-- 🧹 [Task Manager for Teams](https://github.com/Rishh2106/task-management-app) — CRUD + email notifications.
-- 🔗 [URL Shortener with Playlists](https://github.com/Rishh2106/url-shortener-playlist) — Manage and organize your links.
-
-> I'm also working on cool Spring Boot + React apps, Discord bot integration, and DevOps-ready systems!
-
----
 
 ### 📈 GitHub Stats
 
@@ -40,8 +29,8 @@
 ### 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rishikesh-jain-924242231/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:rishikeshj310@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rishh2106"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:officialrishijain0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Rishh2106"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -49,7 +38,7 @@
 
 ### 🎯 Goals for 2025
 
-- ✅ Master Spring Boot with Microservices and Gradle
+- ✅ Master Spring Boot with Microservices and Maven
 - ✅ Land a full-time job as a Java Full-Stack Developer
 - ✅ Contribute to meaningful open-source projects
 - ✅ Build a DevOps-ready SaaS project with CI/CD, Docker, and Monitoring
