@@ -66,4 +66,4 @@ I'm the guy who used to lead classes as a CR, and now I lead projects with code.
 
 ---
 
-🛠️ *Profile README by [@Rishh2106](https://github.com/Rishh2106) — customized with ❤️ by ChatGPT*
+🛠️ *Profile README by [@Rishh2106](https://github.com/Rishh2106) 
