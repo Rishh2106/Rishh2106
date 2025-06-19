@@ -7,6 +7,16 @@
 
 ---
 
+- 🔭 I’m currently learning **AWS**
+
+- 👨‍💻 All of my projects are available at [https://melodic-elf-105f6c.netlify.app/](https://melodic-elf-105f6c.netlify.app/)
+
+- 💬 Ask me about **Java, react, Mysql**
+
+- ⚡ Fun fact **The amount of knowledge in this world grows less than the amount of apetite I've for it.**
+
+---
+
 ### 🔧 Tech Stack I Love Working With:
 
 <p align="center">
