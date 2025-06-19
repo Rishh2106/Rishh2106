@@ -1,21 +1,69 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi there, I'm Rishikesh Jain 👋</h1>
+<h3 align="center">A passionate Java Full-Stack Developer from India 🇮🇳</h3>
 
-- 🔭 I’m currently learning **AWS**
-
-- 👨‍💻 All of my projects are available at [https://melodic-elf-105f6c.netlify.app/](https://melodic-elf-105f6c.netlify.app/)
-
-- 💬 Ask me about **Java, react, Mysql**
-
-- ⚡ Fun fact **The amount of knowledge in this world grows less than the amount of apetite I've for it.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rishh2106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishh2106" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rishh2106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishh2106" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rishh2106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishh2106" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Spring+Boot+Lover+%F0%9F%92%96;React+Fanboy+%F0%9F%92%A1;Open+Source+Explorer+%F0%9F%92%BB;Aspiring+DevOps+Engineer+%F0%9F%94%A7" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishh2106&show_icons=true&locale=en&layout=compact" alt="rishh2106" /></p>
+### 🔧 Tech Stack I Love Working With:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,tailwind,js,html,css,mysql,git,github,vscode" />
+</p>
+
+---
+
+### 🚀 Projects That Represent Me
+
+- 🧠 [Quiz Platform](https://github.com/Rishh2106/quiz-platform) — Kahoot-style quiz app with real-time experience.
+- 👥 [Microsoft Teams Clone](https://github.com/Rishh2106/teams-clone) — Chat + video call with clean UI.
+- 📧 [Gmail Manager](https://github.com/Rishh2106/gmail-manager) — Handle Gmail locally, securely.
+- 🧹 [Task Manager for Teams](https://github.com/Rishh2106/task-management-app) — CRUD + email notifications.
+- 🔗 [URL Shortener with Playlists](https://github.com/Rishh2106/url-shortener-playlist) — Manage and organize your links.
+
+> I'm also working on cool Spring Boot + React apps, Discord bot integration, and DevOps-ready systems!
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishh2106&show_icons=true&theme=tokyonight&hide_title=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishh2106&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishikesh-jain-924242231/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:rishikeshj310@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Rishh2106"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 🎯 Goals for 2025
+
+- ✅ Master Spring Boot with Microservices and Gradle
+- ✅ Land a full-time job as a Java Full-Stack Developer
+- ✅ Contribute to meaningful open-source projects
+- ✅ Build a DevOps-ready SaaS project with CI/CD, Docker, and Monitoring
+
+---
+
+> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
+
+---
+
+### 🧠 Fun Fact
+
+I'm the guy who used to lead classes as a CR, and now I lead projects with code. 💻🚀
+
+---
+
+🛠️ *Profile README by [@Rishh2106](https://github.com/Rishh2106) — customized with ❤️ by ChatGPT*
