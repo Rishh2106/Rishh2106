@@ -1,5 +1,13 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently learning **AWS**
+
+- 👨‍💻 All of my projects are available at [https://melodic-elf-105f6c.netlify.app/](https://melodic-elf-105f6c.netlify.app/)
+
+- 💬 Ask me about **Java, react, Mysql**
+
+- ⚡ Fun fact **The amount of knowledge in this world grows less than the amount of apetite I've for it.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rishh2106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishh2106" height="30" width="40" /></a>
