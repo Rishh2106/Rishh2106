@@ -61,8 +61,6 @@
 
 ### 🧠 Fun Fact
 
-I'm the guy who used to lead classes as a CR, and now I lead projects with code. 💻🚀
+☕ I run on Java, literally and metaphorically.
 
----
 
-🛠️ *Profile README by [@Rishh2106](https://github.com/Rishh2106) 
